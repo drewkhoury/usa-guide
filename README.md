@@ -19,6 +19,15 @@ Timings:
 
 Once you have your Visa you're good to travel to the US, go ahead and book your flight!
 
+E3 Official details and FAQ: http://www.ustraveldocs.com/au/au-niv-typee3.asp
+
+- 10,500 E3 visas on offer each year that allow Aussies to live and work in the US
+- 2yr per visa renewal, you can renew indefinitely
+- Many working visas place a significant financial burden on employers and require them to prove the applicant is the only person capable of doing a specific job.The E3, on the other hand, simply requires the company to file a form with the American Department of Labour.
+- 1 pager to explain E3 to US employers recommended. “The visa process was new to my employer, so I put together a flow chart of the process to show them how easy it was, and how little they had to do. I think the fact that it didn’t cost them anything and could be processed quickly was a big drawcard,” she told news.com.au. The E3 expires every two years, however, unlike most categories it can be renewed an indefinite number of times. Best of all, there’s no age limit.
+- Tips in this article on how to explain an E3 visa to employers: http://aucommunity.org/top-10-tips-for-australian-job-seekers-in-new-york/
+
+
 **Employer:**
 
 - Background check
@@ -93,7 +102,7 @@ Steps in USA:
 
 # Gym
 
-Classpass: first month is still free, Amanda Wang's code: http://class.ps/mAD56
+Classpass: first month is still free: http://class.ps/mAD56
 
 
 # Entertainment
@@ -154,7 +163,19 @@ Brooklyn is worth checking out, especially the suburbs closest to Manhattan.
 There is a lot of nightlife on the Lower East Side and East Village of Manhattan.  Although, to be honest, the whole island has something for everyone.  The west side has the bigger clubs (Chelsea) and the Upper East Side has more preppy sports bars.
 
 
+# Tech Conferences
 
+- Consumer Electronics Show (CES) - Las Vegas Jan 9 - 12, 2018 http://www.ces.tech/
+- DeveloperWeek - SF Bay Area Feb 3 - 8 http://www.developerweek.com/ with Hiring Mixer on Feb 5th http://www.developerweek.com/hiringmixer/
+- DevExecWorld - SF Bay Area Feb 5 - 7 http://devexecworld.com/
+- UXDevSummit - Feb 4 - 6 in Ft. Lauderdale, FL http://www.uxdsummit.com/
+- Mobile Growth Summit - Feb 7-8, 2018 • San Francisco http://mobilegrowthsummit.com/
+- OReilly SW Architecture Feb 25 - 28 https://conferences.oreilly.com/software-architecture/sa-ny
+- SXSW Conference - March 9-18 in Austin, Texas https://www.sxsw.com/attend/
+- Game Developer Conference (GDC) in SF Mar 19 - 23 http://www.gdconf.com/
+- DeveloperWeek Chicago - Chicago April 16 - 18 http://www.developerweek.com/Chicago/
+- DeveloperWeek NYC - was June 19 - 21 in 2017, no dates yet for 2018 http://www.developerweek.com/NYC/
+- API World San Jose - last year in 2017 was Sept http://apiworld.co/
 
 
 
