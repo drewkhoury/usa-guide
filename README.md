@@ -178,6 +178,7 @@ There is a lot of nightlife on the Lower East Side and East Village of Manhattan
 - DeveloperWeek NYC - was June 19 - 21 in 2017, no dates yet for 2018 http://www.developerweek.com/NYC/
 - API World San Jose - last year in 2017 was Sept http://apiworld.co/
 
+SF HTML5 Meetup group: https://www.meetup.com/sfhtml5
 
 
 
