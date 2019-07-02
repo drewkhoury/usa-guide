@@ -33,6 +33,7 @@ E3 Official details and FAQ: http://www.ustraveldocs.com/au/au-niv-typee3.asp
 - Background check
 - Employment contract
 - Letter from employer/HR verifying employment
+- I-94 Employment Eligibility Verification  https://i94.cbp.dhs.gov/I94/ - You will need your I-94 to complete the Form I-9, Employment Eligibility Verification, to commence your U.S. employment
 
 **Insurance:**
 
